@@ -1,2 +1,2 @@
-# Jake.Kim.github.io
+# Jake Kim.github.io
 Personal Website
